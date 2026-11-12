@@ -4,5 +4,6 @@ screenshot/
 tests/
 *.txt
 !/requirements.txt
+!/mcp-server-requirements.txt
 venv/
 devel/
